@@ -1,0 +1,54 @@
+_repo: 30-day-wonder_73375
+_version: 0.0.1
+alternative_title: Thirty-day wonder
+contributor:
+  illustrator:
+    agent_name: Powers, Richard M.
+    aliases:
+    - Powers, Richard Gorman
+    - Powers, Richard G. (Richard Gorman)
+    - Powers, Richard Michael Gorman
+    - Gorman, Terry
+    birthdate: 1921
+    deathdate: 1996
+    gutenberg_agent_id: '55812'
+    url: http://www.gutenberg.org/2009/agents/55812
+    wikipedia: https://en.wikipedia.org/wiki/Richard_M._Powers
+creator:
+  author:
+    agent_name: Wilson, Richard
+    aliases:
+    - Wilson, Dick
+    - Halibut, Edward
+    birthdate: 1920
+    deathdate: 1987
+    gutenberg_agent_id: '34343'
+    url: http://www.gutenberg.org/2009/agents/34343
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Wilson_%28author%29
+description: ''
+gutenberg_issued: '2024-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73375'
+language: en
+pgterms:marc905: 20240126142533wilson
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bBallantine Books, $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Legal stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Journalists -- Fiction'
+- !lcsh 'Dictatorship -- Fiction'
+- !lcsh 'Peace treaties -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 30-day wonder
+url: http://www.gutenberg.org/ebooks/73375
