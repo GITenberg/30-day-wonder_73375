@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '55812'
     url: http://www.gutenberg.org/2009/agents/55812
     wikipedia: https://en.wikipedia.org/wiki/Richard_M._Powers
+covers:
+- cover_type: archival
+  image_path: 73375-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Richard
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34343
     wikipedia: https://en.wikipedia.org/wiki/Richard_Wilson_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73375#30-day-wonder
 gutenberg_issued: '2024-04-10'
 gutenberg_type: Text
 identifiers:
